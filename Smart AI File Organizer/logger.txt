@@ -1,0 +1,9 @@
+2026-03-05 11:38:00.199705 - Moved ass-3------.txt to Documents
+2026-03-05 11:38:00.200159 - No category found for desktop.ini
+2026-03-05 11:38:00.200838 - Moved MOGODB--- lab tasks -1        ---.txt to Documents
+2026-03-05 11:38:00.201790 - Moved MOGODB--- lab tasks -2        ---.txt to Documents
+2026-03-05 11:38:00.202382 - Moved MONGODB labtask-4----.txt to Documents
+2026-03-05 11:38:00.203007 - Moved MongoDB labtask-6.txt to Documents
+2026-03-05 11:38:00.203516 - Moved MongoDB Labtask5-----.txt to Documents
+2026-03-05 11:38:00.204091 - Moved MONGODB--lab task3.txt to Documents
+2026-03-05 11:38:00.204319 - No category found for stockk.ipynb - Colab.html
